@@ -46,6 +46,10 @@ This project includes the following features:
 - Like, dislike, comment, and reply functionality.
 - Subscription and notification system.
 
+## Model : 
+
+https://app.eraser.io/workspace/eNUUDhNvpqVsQmDbJyen?origin=share
+
 ## About the project
 
 This project is a complex backend project that is built with nodejs, expressjs, mongodb, mongoose, jwt, bcrypt, and many more. This project is a complete backend project that has all the features that a backend project should have. We are building a complete video hosting website similar to youtube with all the features like login, signup, upload video, like, dislike, comment, reply, subscribe, unsubscribe, and many more.
